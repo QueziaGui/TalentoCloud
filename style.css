@@ -1,0 +1,30 @@
+html {
+    background: rgb(8, 8, 8);
+}
+ul{
+    list-style: none;
+}
+body {font-family: Arial, sans-serif;}
+header {background-color: #107ae4; padding: 5px; text-align: right;}
+main {margin: auto}
+footer {background-color: #107ae4; padding: 3px; text-align: left;}
+
+h1 {
+    color:whitesmoke;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+p {
+    color:white;
+    display: flex;
+    justify: auto;
+
+}
